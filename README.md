@@ -10,6 +10,7 @@ Successful_TraCorp_Completions.xlsx | sftp24-pci.sumtotalsystems.com | \temp
 
 
 
+
 #
 ### Command line arguments
 Argument | Alias | Required | Description
@@ -37,12 +38,3 @@ To package the python script into a single executable for deployment first insta
 Then execute pyinstaller.
 
 ```pyinstaller --onefile .\reformatTracorp.py```
-
-
-
-
-* Bullet list
-    * Nested bullet
-        * Sub-nested bullet etc
-* Bullet list item 2
-
