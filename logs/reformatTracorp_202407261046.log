@@ -1,0 +1,9 @@
+2024-07-26 10:46:54 INFO Logging started
+2024-07-26 10:46:54 INFO Reading configuration file...
+2024-07-26 10:46:54 INFO Configuration file read successfully
+2024-07-26 10:46:54 INFO Downloading file from TraCorp SFTP...
+2024-07-26 10:46:55 CRITICAL Error downloading file from SFTP
+2024-07-26 10:46:55 CRITICAL ('sftp.azdot.gov', 22)
+2024-07-26 10:46:55 INFO Downloading file from TraCorp SFTP...
+2024-07-26 10:46:55 CRITICAL Error downloading file from SFTP
+2024-07-26 10:46:55 CRITICAL ('sftp24-pci.sumtotalsystems.com', 22)
