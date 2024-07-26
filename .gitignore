@@ -1,0 +1,13 @@
+# Ignore
+.vscode/*
+build/*
+*.spec
+*.ppk
+logs/*
+archive/*
+temp/*
+config.testing
+Local/OutputFiles/*
+
+# Allow
+!requirements.txt

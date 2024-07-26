@@ -1,0 +1,25 @@
+[SFTPSettingsTC]
+sftptcurl = sftp.azdot.gov
+username = tracorp
+key = c:\scripts\tracorp\tracorp_openssh.ppk
+file = /tracorp/toadot/sumTotal.csv
+
+[SFTPSettingsST]
+sftpsturl = sftp24-pci.sumtotalsystems.com
+username = cust_adot
+key = C:\scripts\tracorp\sumtotal_openssh.ppk
+file = /Inbound/TraCorp/TracorpTraining.txt
+
+[SQLSettings]
+driver = ODBC Driver 18 for SQL Server
+server = tcp:myserver.database.windows.net
+database = mydbo
+encrypt = yes
+auth = windows_authentication
+
+[EmailSettings]
+smtpserver = adothub.dot.state.az
+port = 587
+from = donotreply@azdot.gov
+to = ITGBusinessIntelligenceOperations@azdot.gov, ITG_EIS_Server_Management@azdot.gov
+
