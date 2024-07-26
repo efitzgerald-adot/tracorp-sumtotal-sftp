@@ -37,4 +37,4 @@ To package the python script into a single executable for deployment first insta
 
 Then execute pyinstaller.
 
-```pyinstaller --onefile .\reformatTracorp.py```
+```pyinstaller --onefile .\download-sftp-files.py```
