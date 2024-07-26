@@ -1,8 +1,6 @@
 # Ignore
 .vscode/*
 build/*
-archive/*
-
 
 # Allow
 !requirements.txt
