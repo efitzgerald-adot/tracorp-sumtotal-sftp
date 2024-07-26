@@ -4,8 +4,8 @@ This script downloads two files from external SFTP servers:
 
 File | SFTP URL | Destination
 --- | --- | ---
-sumTotal.csv | sftp.azdot.gov | \temp
-Successful_TraCorp_Completions.xlsx | sftp24-pci.sumtotalsystems.com | \temp
+sumTotal.csv | sftp.azdot.gov | .\temp
+Successful_TraCorp_Completions.xlsx | sftp24-pci.sumtotalsystems.com | .\temp
 
 
 
