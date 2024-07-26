@@ -1,10 +1,6 @@
 # Ignore
 .vscode/*
 build/*
-logs/*
-archive/*
-temp/*
-config.testing
 
 # Allow
 !requirements.txt
