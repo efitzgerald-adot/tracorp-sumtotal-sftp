@@ -1,0 +1,25 @@
+2024-07-26 10:31:09 INFO Logging started
+2024-07-26 10:31:09 INFO Reading configuration file...
+2024-07-26 10:31:09 INFO Configuration file read successfully
+2024-07-26 10:31:09 INFO Downloading file from TraCorp SFTP...
+2024-07-26 10:31:09 INFO Connected (version 2.0, client OpenSSH_8.9p1)
+2024-07-26 10:31:09 INFO Authentication (publickey) successful!
+2024-07-26 10:31:10 INFO [chan 0] Opened sftp connection (server version 3)
+2024-07-26 10:31:10 INFO [chan 0] sftp session closed.
+2024-07-26 10:31:10 INFO File downloaded successfully.
+2024-07-26 10:31:44 INFO Logging started
+2024-07-26 10:31:44 INFO Reading configuration file...
+2024-07-26 10:31:44 INFO Configuration file read successfully
+2024-07-26 10:31:44 INFO Downloading file from TraCorp SFTP...
+2024-07-26 10:31:44 INFO Connected (version 2.0, client OpenSSH_8.9p1)
+2024-07-26 10:31:44 INFO Authentication (publickey) successful!
+2024-07-26 10:31:44 INFO [chan 0] Opened sftp connection (server version 3)
+2024-07-26 10:31:44 INFO [chan 0] sftp session closed.
+2024-07-26 10:31:44 INFO File downloaded successfully.
+2024-07-26 10:31:44 INFO Downloading file from TraCorp SFTP...
+2024-07-26 10:31:45 INFO Connected (version 2.0, client sshlib)
+2024-07-26 10:31:46 INFO Auth banner: b''
+2024-07-26 10:31:46 INFO Authentication (publickey) successful!
+2024-07-26 10:31:46 INFO [chan 0] Opened sftp connection (server version 3)
+2024-07-26 10:31:47 INFO [chan 0] sftp session closed.
+2024-07-26 10:31:47 INFO File downloaded successfully.

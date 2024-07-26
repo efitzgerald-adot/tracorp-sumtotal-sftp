@@ -4,8 +4,9 @@ This script downloads two files from external SFTP servers:
 
 File | SFTP URL | Destination
 --- | --- | ---
-sumTotal.csv | sftp.azdot.gov | \temp
-Successful_TraCorp_Completions.xlsx | sftp24-pci.sumtotalsystems.com | \temp
+sumTotal.csv | sftp.azdot.gov | .\temp
+Successful_TraCorp_Completions.xlsx | sftp24-pci.sumtotalsystems.com | .\temp
+
 
 
 
@@ -36,13 +37,4 @@ To package the python script into a single executable for deployment first insta
 
 Then execute pyinstaller.
 
-```pyinstaller --onefile .\reformatTracorp.py```
-
-
-
-
-* Bullet list
-    * Nested bullet
-        * Sub-nested bullet etc
-* Bullet list item 2
-
+```pyinstaller --onefile .\download-sftp-files.py```
